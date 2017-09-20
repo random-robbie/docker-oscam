@@ -1,2 +1,2 @@
 # docker-oscam
-OSCAM docker container
+OSCAM docker container trying to make it as small as possible.
